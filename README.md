@@ -1,6 +1,6 @@
 # Dear ImGui for Unity
 
-This is an internal fork of RGS's package for the immediate mode GUI library, Dear ImGui (https://github.com/ocornut/imgui).
+This is an internal fork of [RGS's package](https://github.com/realgamessoftware/dear-imgui-unity) for the immediate mode GUI library, Dear ImGui (https://github.com/ocornut/imgui).
 The major changes are an updated ImGui version with ImGui internals support, and ImPlot support.
 We use this in our flagship software [MARS VR XPod](https://marsvrlab.com/mars-vr-xpod/). 
 
