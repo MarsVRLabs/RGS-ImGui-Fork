@@ -7,6 +7,6 @@ We use this in our flagship software [MARS VR XPod](https://marsvrlab.com/mars-v
 Please check the original project for usage info, and install info. TLDR: download this package, unzip in your packages folder on unity.
 
 This package uses Dear ImGui C bindings by [cimgui](https://github.com/cimgui/cimgui) for both ImGui and ImPlot, and the C# wrapper by [Mellinoe](https://github.com/mellinoe/ImGui.NET). 
-We also use some code from Psydack's [wonderful updated version](https://github.com/psydack/uimgui) for fixing a specific submesh warning. If you don't need any features from our package, we highly recommend using his instead.
+We also use some code from Psydack's [wonderful updated version](https://github.com/psydack/uimgui) for fixing a specific submesh warning. If you don't need any features from our package, we highly recommend using his instead. It is more supported than ours will be.
 
-We cannot confirm support for new features and bug fixes, but we feel like we should share what we have with the community, even if it's far from perfect.
+We cannot confirm support for new features and bug fixes, but we felt like we should share what we have with the community even if it's far from perfect.
